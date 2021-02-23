@@ -60,7 +60,8 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 Describe any challenges encountered while building the app.
-#### Took a bit of time to understand how to implement Glide library transformations to images and further development of the YouTubePlayer.
+- Took a bit of time to understand how to implement Glide library transformations to images 
+- Learning to use Google API for the implementation of the YouTubePlayer
 
 ### Open-source libraries used
 
